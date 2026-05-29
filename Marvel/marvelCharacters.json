@@ -1,0 +1,98 @@
+[
+    {
+        "name" : "Nick Fury",
+        "stats" : 115,
+        "powers" : ["combat fighting"]
+
+    },
+    {
+        "name" : "Steve Rogers",
+        "stats" : 160,
+        "powers" : ["super human strength", "enhanced soldier"]
+
+    },
+    {
+        "name" : "Tony Stark",
+        "stats" : 140,
+        "powers" : ["Genius-level intellect", "powered armor suit" ]
+
+    },
+    {
+        "name" : "Natalia Romanova",
+        "stats" : 150,
+        "powers" : ["espionage", "master martial artist", "multilingual"]
+
+    },
+    {
+        "name" : "Scott Langdon",
+        "stats" : 120,
+        "powers" : ["powered armor suit", "size alteration", "telepathic insect control"]
+
+    },
+    {
+        "name" : "Peter Parker",
+        "stats" : 160,
+        "powers" : ["super human strenght", "web shooters", "agility", "spider-like reflexes"]
+
+    },
+    {
+        "name" : "Janet Van Dyne",
+        "stats" : 120,
+        "powers" : ["size alteration", "bio-electric sting", "telepathic insect control"]
+
+    },
+    {
+        "name" : "Clint Barton",
+        "stats" : 140,
+        "powers" : ["flawless marksmanship", "quick reflexes", "genius-level tactical mind"]
+
+    },
+    {
+        "name" : "Carol Danvers",
+        "stats" : 200,
+        "powers" : ["energy absorption and manipulation", "super human strength", "cosmic flight"]
+
+    },
+    {
+        "name" : "Loki",
+        "stats" : 90,
+        "powers" : ["shape shifting", "complex illusion casting", "teleportation"]
+
+    },
+    {
+        "name" : "Steven Strange",
+        "stats" : 110,
+        "powers" : ["Manipulate reality and time dimensions", "mystic arts"]
+
+    },
+    {
+        "name" : "Thanos",
+        "stats" : 125,
+        "powers" : ["god-like physical strength", "durability", "super human intellect"]
+
+    },
+    {
+        "name" : "Gamora",
+        "stats" : 155,
+        "powers" : ["master assassin", "martial artist", "master swordsman", "combat skills"]
+
+    },
+    {
+        "name" : "Peter Quil",
+        "stats" : 150,
+        "powers" : ["enhanced human physiology", "tactical genius", "advanced cosmic gear"]
+
+    },
+    {
+        "name" : "Groot",
+        "stats" : 95,
+        "powers" : ["super human strength", "regeneration", "controls plant life"]
+
+    },
+    {
+        "name" : "Rocket",
+        "stats" : 85,
+        "powers" : ["cyberneticall enhanced", "genius-level intelligence"]
+
+    }
+]
