@@ -40,16 +40,16 @@ while True:
         print(data)
         break
 
-    print(json.dumps(js, indent=4))
+    #print(json.dumps(js, indent=4))
     #print(json.dumps(js['features'][0]['properties'], indent=4))
     
     getting_plus_code = js['features'][0]['properties']['plus_code']
-    print(getting_plus_code)
     lat = js['features'][0]['properties']['lat']
     lon = js['features'][0]['properties']['lon']
     print('lat', lat, 'lon', lon)
     location = js['features'][0]['properties']['formatted']
     print(location)
+    print(getting_plus_code)
 
 #import urllib.request, urllib.parse, json, http, ssl
 

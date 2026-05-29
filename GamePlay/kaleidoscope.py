@@ -24,7 +24,7 @@ def draw_circle(size, angle, shift, shape) :
     draw_circle(size + 5, angle +1, shift + 1, next_shape)
 
 t.bgcolor("black")
-t.speed("fast")
+t.speed("slow")
 t.pensize(2)
 draw_circle(30, 0, 1,'circle')
 
