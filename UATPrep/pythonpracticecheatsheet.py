@@ -24,4 +24,18 @@ ineligible_ids = [user["id"] for user in users if not is_eligible(user)]
 #You loop with for x in something
 #You append at the end — with or without an if condition#
 
-# when you're doing multiple things inside the loop (like appending to two different lists, or doing calculations), stick with the regular loop.
+# when you're doing multiple things inside the loop (like appending to two different lists, 
+# or doing calculations), stick with the regular loop.
+
+# You'll use this pattern constantly
+#  — counting API calls, counting failed requests, counting user events.
+for mission in missions: 
+        for heroes in mission["team"]: 
+            if heroes not in heroes_three_missions:
+                heroes_three_missions[heroes] = 0
+            heroes_three_missions[heroes] += 1
+    
+    for heroes, count in heroes_three_missions.items():
+        if count >= 3:
+            same_missions[heroes] = count
+    return same_missions
