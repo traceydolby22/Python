@@ -1,0 +1,12 @@
+[
+    {"agent": "Maya Chen", "clearance": 9, "skills": ["hacking", "surveillance", "hand-to-hand combat"], "missions_completed": 47, "status": "active"},
+    {"agent": "James Okafor", "clearance": 7, "skills": ["explosives", "hand-to-hand combat", "driving"], "missions_completed": 23, "status": "active"},
+    {"agent": "Sofia Reyes", "clearance": 10, "skills": ["hacking", "languages", "surveillance"], "missions_completed": 61, "status": "inactive"},
+    {"agent": "Dmitri Volkov", "clearance": 6, "skills": ["driving", "hand-to-hand combat", "explosives"], "missions_completed": 12, "status": "active"},
+    {"agent": "Priya Nair", "clearance": 8, "skills": ["surveillance", "languages", "psychology"], "missions_completed": 38, "status": "active"},
+    {"agent": "Carlos Mendez", "clearance": 5, "skills": ["driving", "explosives"], "missions_completed": 8, "status": "suspended"},
+    {"agent": "Yuki Tanaka", "clearance": 9, "skills": ["hacking", "hand-to-hand combat", "psychology"], "missions_completed": 55, "status": "active"},
+    {"agent": "Amara Diallo", "clearance": 7, "skills": ["languages", "surveillance", "psychology"], "missions_completed": 29, "status": "active"},
+    {"agent": "Erik Strand", "clearance": 8, "skills": ["hacking", "explosives", "driving"], "missions_completed": 34, "status": "inactive"},
+    {"agent": "Fatima Al-Hassan", "clearance": 10, "skills": ["languages", "psychology", "surveillance"], "missions_completed": 72, "status": "active"}
+]

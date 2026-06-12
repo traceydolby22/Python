@@ -1,0 +1,8 @@
+[
+    {"name": "Luna", "type": "dog", "breed": "labrador", "age": 3},
+    {"name": "Mochi", "type": "cat", "breed": "siamese", "age": 5},
+    {"name": "Rex", "type": "dog", "breed": "german shepherd", "age": 7},
+    {"name": "Bella", "type": "cat", "breed": "persian", "age": 2},
+    {"name": "Buddy", "type": "dog", "breed": "golden retriever", "age": 4},
+    {"name": "Whiskers", "type": "cat", "breed": "maine coon", "age": 8}
+]

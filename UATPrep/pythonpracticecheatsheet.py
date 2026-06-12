@@ -14,6 +14,19 @@ if dict["key"] < 0:
 for item in items:
     my_function(item)  # not items — item
     print("key")
+
+# need to remember how to sort with lambda 
+sorted_agents = sorted(elite_clearance, key=lambda h: h["missions_completed"], reverse=True)
+
+
+#filter sorted list above by names 
+names = []
+for agent in sorted_agents:
+    names.append(agent["agent"])
+return names
+# shorthand for the above 
+names = [h["name"]for h in sorted_heroes]
+
 # Here's the simple rule:
 
 #If you're building a new list by looping through an existing one, it's probably a list comprehension.
@@ -39,3 +52,4 @@ for mission in missions:
         if count >= 3:
             same_missions[heroes] = count
     return same_missions
+
