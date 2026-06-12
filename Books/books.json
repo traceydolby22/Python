@@ -1,0 +1,12 @@
+[
+    {"book": "The Midnight Crown", "author": "Elena Voss", "genre": "fantasy", "pages": 412, "rating": 4.8, "status": "published", "year": 2021},
+    {"book": "Salt and Ember", "author": "James Okoro", "genre": "romance", "pages": 287, "rating": 4.2, "status": "published", "year": 2019},
+    {"book": "The Hollow Deep", "author": "Nadia Chen", "genre": "thriller", "pages": 334, "rating": 3.9, "status": "published", "year": 2022},
+    {"book": "Fires of Auryn", "author": "Ravi Patel", "genre": "fantasy", "pages": 598, "rating": 4.6, "status": "unpublished", "year": 2023},
+    {"book": "When We Fall", "author": "Chloe Martinez", "genre": "romance", "pages": 310, "rating": 4.5, "status": "published", "year": 2020},
+    {"book": "Glass Meridian", "author": "Marcus Webb", "genre": "thriller", "pages": 289, "rating": 4.1, "status": "published", "year": 2018},
+    {"book": "Thornfield Rising", "author": "Yuki Tanaka", "genre": "fantasy", "pages": 476, "rating": 4.7, "status": "unpublished", "year": 2023},
+    {"book": "The Last Cartographer", "author": "Priya Nair", "genre": "thriller", "pages": 401, "rating": 4.4, "status": "published", "year": 2021},
+    {"book": "Ember and Ash", "author": "Derek Stone", "genre": "romance", "pages": 265, "rating": 3.8, "status": "published", "year": 2017},
+    {"book": "Veilborn", "author": "Amara Diallo", "genre": "fantasy", "pages": 523, "rating": 4.9, "status": "published", "year": 2022}
+]

@@ -1,0 +1,12 @@
+[
+    {"player": "Marcus Reid", "team": "Storm", "position": "forward", "points_per_game": 24.3, "assists": 6.1, "season": "active", "years_pro": 8},
+    {"player": "Yuki Tanaka", "team": "Blazers", "position": "guard", "points_per_game": 18.7, "assists": 9.4, "season": "active", "years_pro": 3},
+    {"player": "Elena Voss", "team": "Storm", "position": "center", "points_per_game": 12.1, "assists": 2.3, "season": "injured", "years_pro": 5},
+    {"player": "Ravi Patel", "team": "Knights", "position": "guard", "points_per_game": 21.8, "assists": 7.2, "season": "active", "years_pro": 6},
+    {"player": "Chloe Kim", "team": "Blazers", "position": "forward", "points_per_game": 16.4, "assists": 4.8, "season": "active", "years_pro": 2},
+    {"player": "Derek Stone", "team": "Knights", "position": "center", "points_per_game": 19.2, "assists": 3.1, "season": "active", "years_pro": 9},
+    {"player": "Priya Nair", "team": "Storm", "position": "guard", "points_per_game": 22.6, "assists": 8.9, "season": "active", "years_pro": 4},
+    {"player": "James Cho", "team": "Blazers", "position": "center", "points_per_game": 14.8, "assists": 1.9, "season": "injured", "years_pro": 7},
+    {"player": "Amara Diallo", "team": "Knights", "position": "forward", "points_per_game": 28.1, "assists": 5.6, "season": "active", "years_pro": 11},
+    {"player": "Nadia Flores", "team": "Storm", "position": "forward", "points_per_game": 17.9, "assists": 3.7, "season": "active", "years_pro": 1}
+]

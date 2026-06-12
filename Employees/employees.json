@@ -1,0 +1,13 @@
+[
+    {"employee": "Jordan Lee", "department": "Engineering", "salary": 95000, "years": 4, "status": "active", "skills": ["python", "javascript", "sql"]},
+    {"employee": "Priya Patel", "department": "Marketing", "salary": 72000, "years": 2, "status": "active", "skills": ["seo", "analytics", "copywriting"]},
+    {"employee": "Marcus Webb", "department": "Engineering", "salary": 110000, "years": 7, "status": "active", "skills": ["python", "rust", "sql"]},
+    {"employee": "Sofia Chen", "department": "HR", "salary": 68000, "years": 3, "status": "inactive", "skills": ["recruiting", "analytics", "training"]},
+    {"employee": "Derek Okafor", "department": "Engineering", "salary": 88000, "years": 1, "status": "active", "skills": ["javascript", "python", "css"]},
+    {"employee": "Amara Singh", "department": "Marketing", "salary": 79000, "years": 5, "status": "active", "skills": ["analytics", "seo", "strategy"]},
+    {"employee": "Lena Kovac", "department": "HR", "salary": 71000, "years": 6, "status": "active", "skills": ["training", "recruiting", "compliance"]},
+    {"employee": "Tobias Grant", "department": "Engineering", "salary": 102000, "years": 9, "status": "inactive", "skills": ["sql", "python", "devops"]},
+    {"employee": "Yara Osei", "department": "Marketing", "salary": 65000, "years": 1, "status": "active", "skills": ["copywriting", "seo", "design"]},
+    {"employee": "Finn Murphy", "department": "HR", "salary": 74000, "years": 4, "status": "active", "skills": ["compliance", "analytics", "recruiting"]}
+]
+

@@ -1,0 +1,12 @@
+[
+    {"customer": "Elena Ross", "city": "Austin", "plan": "premium", "monthly_spend": 120, "months_active": 14, "status": "active"},
+    {"customer": "James Cho", "city": "Seattle", "plan": "basic", "monthly_spend": 45, "months_active": 3, "status": "active"},
+    {"customer": "Nadia Flores", "city": "Austin", "plan": "premium", "monthly_spend": 120, "months_active": 22, "status": "churned"},
+    {"customer": "Ravi Patel", "city": "Chicago", "plan": "standard", "monthly_spend": 75, "months_active": 8, "status": "active"},
+    {"customer": "Chloe Kim", "city": "Seattle", "plan": "premium", "monthly_spend": 120, "months_active": 31, "status": "active"},
+    {"customer": "Marcus Bell", "city": "Chicago", "plan": "basic", "monthly_spend": 45, "months_active": 2, "status": "active"},
+    {"customer": "Yuki Tanaka", "city": "Austin", "plan": "standard", "monthly_spend": 75, "months_active": 11, "status": "churned"},
+    {"customer": "Priya Nair", "city": "Seattle", "plan": "standard", "monthly_spend": 75, "months_active": 19, "status": "active"},
+    {"customer": "Derek Stone", "city": "Chicago", "plan": "premium", "monthly_spend": 120, "months_active": 7, "status": "active"},
+    {"customer": "Amara Diallo", "city": "Austin", "plan": "basic", "monthly_spend": 45, "months_active": 5, "status": "active"}
+]

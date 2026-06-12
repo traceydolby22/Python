@@ -1,0 +1,12 @@
+[
+    {"student": "Maya Chen", "grade": 11, "subject": "Math", "score": 88, "status": "enrolled"},
+    {"student": "James Park", "grade": 10, "subject": "Science", "score": 92, "status": "enrolled"},
+    {"student": "Sofia Rivera", "grade": 11, "subject": "Math", "score": 76, "status": "withdrawn"},
+    {"student": "Derek Mills", "grade": 12, "subject": "English", "score": 95, "status": "enrolled"},
+    {"student": "Priya Nair", "grade": 10, "subject": "Science", "score": 81, "status": "enrolled"},
+    {"student": "Conall Brady", "grade": 11, "subject": "English", "score": 73, "status": "enrolled"},
+    {"student": "Amara Osei", "grade": 12, "subject": "Math", "score": 90, "status": "enrolled"},
+    {"student": "Lena Kovac", "grade": 10, "subject": "Science", "score": 67, "status": "withdrawn"},
+    {"student": "Tobias Grant", "grade": 12, "subject": "English", "score": 84, "status": "enrolled"},
+    {"student": "Yuki Tanaka", "grade": 11, "subject": "Math", "score": 79, "status": "enrolled"}
+]

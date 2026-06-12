@@ -1,0 +1,12 @@
+[
+    {"mission": "Operation Nightfall", "difficulty": 85, "team": ["Steve Rogers", "Natalia Romanova", "Clint Barton"], "status": "completed"},
+    {"mission": "Operation Starfall", "difficulty": 120, "team": ["Carol Danvers", "Peter Quil", "Gamora"], "status": "completed"},
+    {"mission": "Operation Ironclad", "difficulty": 95, "team": ["Tony Stark", "Steve Rogers", "Thanos"], "status": "failed"},
+    {"mission": "Operation Ghostwire", "difficulty": 60, "team": ["Loki", "Natalia Romanova"], "status": "completed"},
+    {"mission": "Operation Deepfreeze", "difficulty": 110, "team": ["Steve Rogers", "Carol Danvers", "Groot"], "status": "failed"},
+    {"mission": "Operation Voidstrike", "difficulty": 130, "team": ["Gamora", "Peter Quil", "Rocket"], "status": "completed"},
+    {"mission": "Operation Redline", "difficulty": 75, "team": ["Clint Barton", "Natalia Romanova", "Scott Langdon"], "status": "failed"},
+    {"mission": "Operation Sunblaze", "difficulty": 145, "team": ["Carol Danvers", "Steven Strange", "Tony Stark"], "status": "completed"},
+    {"mission": "Operation Shadowfall", "difficulty": 90, "team": ["Loki", "Gamora", "Natalia Romanova"], "status": "completed"},
+    {"mission": "Operation Frostbite", "difficulty": 115, "team": ["Steve Rogers", "Janet Van Dyne", "Scott Langdon"], "status": "failed"}
+]
