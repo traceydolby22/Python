@@ -70,3 +70,39 @@ def get_seniority_report(employees):
 #print(get_average_salary_by_department(employees))     
 #print(employees_with_skills(employees, "analytics"))
 print(get_seniority_report(employees))   
+
+def get_employees_by_department(employees):
+    department_list = {}
+    for employee in employees:
+        dept = employee["department"]
+        if dept not in department_list:
+            department_list[dept] = []
+        department_list[dept].append(employee["employee"])
+    return department_list
+
+def get_highest_paid_employee(employees):
+    highest_salary = 0
+    top_employee = ""
+    for employee in employees:
+        if employee["salary"] > highest_salary:
+            highest_salary = employee["salary"]
+            top_employee = employee["employee"]
+    return top_employee
+
+def get_average_tenure(employees):
+    total_years = {}
+    count_years = {}
+    for employee in employees:
+        dept = employee["department"]
+        if dept not in total_years:
+            total_years[dept] = 0
+            count_years[dept] = 0 
+        total_years[dept] += employee["years"]
+        count_years[dept] += 1
+    
+    average = {}
+    for total in total_years:
+        average[total] = round(total_years[total] / count_years[total], 2)
+    return average
+
+print(get_highest_paid_employee(employees))

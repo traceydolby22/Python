@@ -1,0 +1,13 @@
+[
+    {"title": "The Mandalorian", "platform": "Disney+", "duration_min": 45, "rating": 4.8, "completed": true},
+    {"title": "Only Murders in the Building", "platform": "Hulu", "duration_min": 32, "rating": 4.5, "completed": true},
+    {"title": "Andor", "platform": "Disney+", "duration_min": 51, "rating": 4.9, "completed": false},
+    {"title": "The Bear", "platform": "Hulu", "duration_min": 28, "rating": 4.7, "completed": true},
+    {"title": "Loki", "platform": "Disney+", "duration_min": 48, "rating": 4.6, "completed": true},
+    {"title": "Abbott Elementary", "platform": "Hulu", "duration_min": 22, "rating": 4.4, "completed": false},
+    {"title": "Obi-Wan Kenobi", "platform": "Disney+", "duration_min": 55, "rating": 4.3, "completed": true},
+    {"title": "Dopesick", "platform": "Hulu", "duration_min": 60, "rating": 4.8, "completed": true},
+    {"title": "Ms. Marvel", "platform": "Disney+", "duration_min": 40, "rating": 4.2, "completed": false},
+    {"title": "Little Fires Everywhere", "platform": "Hulu", "duration_min": 58, "rating": 4.6, "completed": true}
+]
+

@@ -1,0 +1,12 @@
+[
+    {"user": "Elena Ross", "feature": "checkout_redesign", "device": "iPhone 15", "os_version": "18.2", "feedback": "Smooth experience, no issues", "rating": 5, "completed": true},
+    {"user": "James Cho", "feature": "checkout_redesign", "device": "iPhone 12", "os_version": "16.1", "feedback": "Button overlapped with keyboard", "rating": 2, "completed": false},
+    {"user": "Nadia Flores", "feature": "dark_mode", "device": "iPhone 15 Pro", "os_version": "18.2", "feedback": "Looks great", "rating": 5, "completed": true},
+    {"user": "Ravi Patel", "feature": "checkout_redesign", "device": "iPhone 13", "os_version": "17.4", "feedback": "Confusing flow, had to retry twice", "rating": 3, "completed": true},
+    {"user": "Chloe Kim", "feature": "dark_mode", "device": "iPhone 14", "os_version": "17.0", "feedback": "Some text unreadable in dark mode", "rating": 2, "completed": false},
+    {"user": "Marcus Bell", "feature": "notifications_v2", "device": "iPhone 15", "os_version": "18.2", "feedback": "Notifications arrived late", "rating": 3, "completed": true},
+    {"user": "Priya Nair", "feature": "checkout_redesign", "device": "iPhone 15 Pro", "os_version": "18.2", "feedback": "Loved the new layout", "rating": 5, "completed": true},
+    {"user": "Derek Stone", "feature": "notifications_v2", "device": "iPhone 12", "os_version": "16.1", "feedback": "Crashed on tap", "rating": 1, "completed": false},
+    {"user": "Amara Diallo", "feature": "dark_mode", "device": "iPhone 15", "os_version": "18.2", "feedback": "Works well overall", "rating": 4, "completed": true},
+    {"user": "Yuki Tanaka", "feature": "notifications_v2", "device": "iPhone 13", "os_version": "17.4", "feedback": "Worked fine for me", "rating": 4, "completed": true}
+]

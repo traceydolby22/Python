@@ -1,0 +1,12 @@
+[
+    {"product": "Wireless Headphones", "brand": "Sony", "category": "Electronics", "price": 89.99, "stock": 45, "status": "available"},
+    {"product": "Running Shoes", "brand": "Nike", "category": "Footwear", "price": 129.99, "stock": 12, "status": "available"},
+    {"product": "Coffee Maker", "brand": "Breville", "category": "Appliances", "price": 199.99, "stock": 0, "status": "out_of_stock"},
+    {"product": "Yoga Mat", "brand": "Lululemon", "category": "Fitness", "price": 78.00, "stock": 30, "status": "available"},
+    {"product": "Bluetooth Speaker", "brand": "JBL", "category": "Electronics", "price": 59.99, "stock": 8, "status": "available"},
+    {"product": "Winter Boots", "brand": "Timberland", "category": "Footwear", "price": 189.99, "stock": 0, "status": "out_of_stock"},
+    {"product": "Air Fryer", "brand": "Ninja", "category": "Appliances", "price": 149.99, "stock": 22, "status": "available"},
+    {"product": "Resistance Bands", "brand": "TheraBand", "category": "Fitness", "price": 24.99, "stock": 67, "status": "available"},
+    {"product": "Smart Watch", "brand": "Apple", "category": "Electronics", "price": 399.99, "stock": 15, "status": "available"},
+    {"product": "Hiking Boots", "brand": "Merrell", "category": "Footwear", "price": 159.99, "stock": 0, "status": "out_of_stock"}
+]
