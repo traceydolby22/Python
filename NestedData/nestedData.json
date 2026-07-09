@@ -1,0 +1,16 @@
+[
+    {"suite": "auth", "tests": [
+        {"name": "login_valid", "status": "pass"},
+        {"name": "login_invalid", "status": "fail"},
+        {"name": "logout", "status": "pass"}
+    ]},
+    {"suite": "payments", "tests": [
+        {"name": "checkout_success", "status": "pass"},
+        {"name": "checkout_decline", "status": "fail"},
+        {"name": "refund", "status": "fail"}
+    ]},
+    {"suite": "profile", "tests": [
+        {"name": "edit_name", "status": "pass"},
+        {"name": "upload_photo", "status": "pass"}
+    ]}
+]

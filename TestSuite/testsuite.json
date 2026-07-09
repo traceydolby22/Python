@@ -1,0 +1,14 @@
+
+
+[
+    {"test_name": "login_valid_user", "suite": "auth", "duration_sec": 2.3, "status": "passed", "flaky": false},
+    {"test_name": "login_invalid_password", "suite": "auth", "duration_sec": 1.8, "status": "passed", "flaky": false},
+    {"test_name": "checkout_apple_pay", "suite": "payments", "duration_sec": 5.1, "status": "failed", "flaky": true},
+    {"test_name": "checkout_credit_card", "suite": "payments", "duration_sec": 4.7, "status": "passed", "flaky": false},
+    {"test_name": "profile_edit_name", "suite": "profile", "duration_sec": 3.2, "status": "passed", "flaky": false},
+    {"test_name": "session_timeout", "suite": "auth", "duration_sec": 12.4, "status": "failed", "flaky": false},
+    {"test_name": "refund_processing", "suite": "payments", "duration_sec": 6.8, "status": "passed", "flaky": true},
+    {"test_name": "profile_upload_photo", "suite": "profile", "duration_sec": 4.1, "status": "failed", "flaky": false},
+    {"test_name": "logout_clears_session", "suite": "auth", "duration_sec": 1.2, "status": "passed", "flaky": false},
+    {"test_name": "subscription_renewal", "suite": "payments", "duration_sec": 7.9, "status": "passed", "flaky": false}
+]

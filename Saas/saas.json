@@ -1,0 +1,12 @@
+[
+    {"ticket": "PROJ-101", "assignee": "Jordan", "priority": "high", "status": "open", "days_open": 12, "type": "bug"},
+    {"ticket": "PROJ-102", "assignee": "Maya", "priority": "low", "status": "closed", "days_open": 3, "type": "feature"},
+    {"ticket": "PROJ-103", "assignee": "Jordan", "priority": "critical", "status": "open", "days_open": 5, "type": "bug"},
+    {"ticket": "PROJ-104", "assignee": "Priya", "priority": "medium", "status": "open", "days_open": 8, "type": "bug"},
+    {"ticket": "PROJ-105", "assignee": "Maya", "priority": "high", "status": "open", "days_open": 15, "type": "feature"},
+    {"ticket": "PROJ-106", "assignee": "Priya", "priority": "critical", "status": "closed", "days_open": 1, "type": "bug"},
+    {"ticket": "PROJ-107", "assignee": "Jordan", "priority": "low", "status": "closed", "days_open": 6, "type": "feature"},
+    {"ticket": "PROJ-108", "assignee": "Derek", "priority": "medium", "status": "open", "days_open": 9, "type": "bug"},
+    {"ticket": "PROJ-109", "assignee": "Derek", "priority": "high", "status": "open", "days_open": 21, "type": "feature"},
+    {"ticket": "PROJ-110", "assignee": "Priya", "priority": "low", "status": "open", "days_open": 4, "type": "feature"}
+]
